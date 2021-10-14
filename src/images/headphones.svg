@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119" height="119" viewBox="0 0 119 119">
+  <g id="headphones" transform="translate(22 22)">
+    <circle id="Ellipse_97" data-name="Ellipse 97" cx="59.5" cy="59.5" r="59.5" transform="translate(-22 -22)" fill="#fff"/>
+    <path id="Path_441" data-name="Path 441" d="M16,64H11a9,9,0,0,1-9-9V48a9,9,0,0,1,9-9h5a1,1,0,0,1,1,1V63A1,1,0,0,1,16,64ZM11,41a7,7,0,0,0-7,7v7a7,7,0,0,0,7,7h4V41Z" fill="#26c6da"/>
+    <path id="Path_442" data-name="Path 442" d="M63,64H58a1,1,0,0,1-1-1V40a1,1,0,0,1,1-1h5a9,9,0,0,1,9,9v7A9,9,0,0,1,63,64Zm-4-2h4a7,7,0,0,0,7-7V48a7,7,0,0,0-7-7H59Z" fill="#26c6da"/>
+    <path id="Path_443" data-name="Path 443" d="M64,40H62V30a25,25,0,1,0-50,0V40H10V30a27,27,0,0,1,54,0Z" fill="#26c6da"/>
+    <path id="Path_444" data-name="Path 444" d="M56,71H43a7,7,0,0,1-7-7h2a5,5,0,0,0,5,5H56a6,6,0,0,0,6-6h2A8,8,0,0,1,56,71Z" fill="#26c6da"/>
+    <path id="Path_445" data-name="Path 445" d="M37,65a4,4,0,1,1,4-4A4,4,0,0,1,37,65Zm0-6a2,2,0,1,0,2,2A2,2,0,0,0,37,59Z" fill="#26c6da"/>
+  </g>
+</svg>
